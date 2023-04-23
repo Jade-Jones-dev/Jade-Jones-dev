@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Jade thanks for stopping by 😄. I'm a junior fullstack web developer based in the UK 
+Hi there 👋 I'm Jade thanks for stopping by 😄. I'm a junior fullstack web developer based in the UK 
 
-- 🔭 I’m currently working on a job tracking app 
 - 🌱 I’m currently learning
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 🔭 I’m currently working on a job tracking app 
 - 👯 I’m looking to collaborate on anything that sounds exciting 😄 
-- 📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/jadejonesdev/
+
 
 Skills and tools:
 
