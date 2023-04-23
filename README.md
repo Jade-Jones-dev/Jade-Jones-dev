@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jade thanks for stopping by 😄. I'm a junior fullstack web developer based in the UK 
+
 
 - 🌱 I’m currently learning
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
